@@ -1,0 +1,15 @@
+-AMD RYZEN 5 3500x 3.6 Ghz		: 2.300.000
+-GTX 1660 Super 6GB		: 4.000.000
+-MSI B450 TomaHawk MAX		: 2.000.000
+-PSU Cooler Master 550w MWE 80	: 900.000
+-TEAM DELTA 8gb x2 3200Hz		: 1.500.000
+-WD BLUE 1 TB			: 650.000
+-SSD VGEN 256GB SATA		: 500.000
+-Water Colling Deepcool gammax L240 V2	: 900.000
+-CASSING DA N21			: 600.000
+-Fan 				: 150.000
+				__________ +
+				 13.500.000
+budget : 14.000.000
+
+Tempat Rakit : starcomp jogja,Semesta jaya Komputer 
